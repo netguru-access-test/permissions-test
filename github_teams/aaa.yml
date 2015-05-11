@@ -1,0 +1,5 @@
+---
+permission: push
+members:
+repos:
+- aaa-repo

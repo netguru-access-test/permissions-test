@@ -1,7 +1,6 @@
 ---
 permission: push
 members:
-- mariusz.blaszczak
 - mateusz.stebnicki
 repos:
 - gem

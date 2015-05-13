@@ -1,6 +1,7 @@
 ---
 permission: push
 members:
-- alpha.beta
+- mateusz.stebnicki
+- mariusz.blaszczak
 repos:
 - aaa-repo

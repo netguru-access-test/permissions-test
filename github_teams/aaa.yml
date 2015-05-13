@@ -1,5 +1,6 @@
 ---
 permission: push
 members:
+- alpha.beta
 repos:
 - aaa-repo

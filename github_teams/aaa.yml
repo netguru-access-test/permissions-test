@@ -3,5 +3,5 @@ permission: push
 members:
 - mariusz.blaszczak
 repos:
-- repo a
+- repo-a
 - gem

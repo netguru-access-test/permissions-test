@@ -6,4 +6,4 @@ members:
 repos:
 - repo-a
 - guides
-- test-_repo
+- test_repo

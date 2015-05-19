@@ -2,6 +2,7 @@
 permission: push
 members:
 - mariusz.blaszczak
+- mariusz.blaszczaktest
 - jacek.mozejko
 repos:
 - repo-a

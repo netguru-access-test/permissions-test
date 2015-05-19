@@ -5,6 +5,5 @@ members:
 - mariusz.blaszczaktest
 - jacek.mozejko
 repos:
-- repo-a
 - guides
 - test_repo

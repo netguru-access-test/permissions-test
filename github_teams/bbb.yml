@@ -7,3 +7,5 @@ members:
 - mateusz.stebnicki
 repos:
 - repo-b
+- test_repo
+

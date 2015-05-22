@@ -1,0 +1,8 @@
+---
+permission: pull
+members:
+- mariusz.blaszczak
+- jacek.mozejko
+repos:
+- repo-a
+- test_repo

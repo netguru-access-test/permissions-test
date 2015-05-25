@@ -1,5 +1,5 @@
 ---
-membership: domain
+domain_membership: true
 members:
 aliases:
 - aaa-alias

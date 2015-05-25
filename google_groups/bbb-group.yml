@@ -1,4 +1,5 @@
 ---
+domain_membership: true
 members:
 aliases:
 - bbb-alias

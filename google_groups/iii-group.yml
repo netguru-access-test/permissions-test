@@ -1,5 +1,5 @@
 ---
-domain_membership: true
+domain_membership: false
 members:
 aliases:
 - iii-alias

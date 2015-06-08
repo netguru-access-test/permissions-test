@@ -1,7 +1,6 @@
 ---
 permission: pull
 members:
-- mariusz.blaszczak
 - jacek.mozejko
 - not.present
 repos:

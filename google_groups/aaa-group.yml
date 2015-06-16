@@ -4,5 +4,5 @@ members:
 - mariusz.blaszczak
 aliases:
 - aaa-alias
-archive: false
-privacy: open
+archive: true
+privacy: closed

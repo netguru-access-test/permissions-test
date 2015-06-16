@@ -3,3 +3,4 @@ domain_membership: false
 members:
 aliases:
 - iii-alias
+privacy: closed

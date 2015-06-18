@@ -2,6 +2,7 @@
 domain_membership: false
 members:
 - mariusz.blaszczak
+- janusz.kowalski
 aliases:
 - aaa-alias
 archive: true

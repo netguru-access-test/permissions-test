@@ -1,8 +1,0 @@
----
-permission: pull
-members:
-- jacek.mozejko
-- not.present
-repos:
-- repo-a
-- test_repo

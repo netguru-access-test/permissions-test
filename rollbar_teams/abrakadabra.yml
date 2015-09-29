@@ -1,8 +1,6 @@
 ---
 name: abrakadabra
-members:
-- mariusz.blaszczak
-- mateusz.stebnicki
+members: []
 projects:
 - SecondProject
 - project3

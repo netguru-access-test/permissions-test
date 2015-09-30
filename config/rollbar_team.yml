@@ -1,0 +1,9 @@
+---
+members:
+  required: true
+  default_value:
+  value_type: array
+projects:
+  required: true
+  default_value:
+  value_type: array

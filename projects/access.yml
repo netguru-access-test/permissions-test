@@ -1,0 +1,10 @@
+---
+display_name: Access App
+description: Netguru internal app for managing various accesses
+slack_project_channel_name: project-access
+slack_client_channel_name: project-access
+project_email: accessguru-team@netguru.pl
+github_teams:
+  - access
+google_groups:
+  - accessguru-team

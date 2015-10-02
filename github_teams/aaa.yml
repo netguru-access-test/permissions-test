@@ -1,6 +1,6 @@
 ---
 permission: push
 members:
-- external/mariusz.blaszczaktest
+- external/marcin.siepetowskitest
 repos:
 - repo-a

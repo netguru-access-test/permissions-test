@@ -7,10 +7,6 @@ emails:
   required: false
   default_value:
   value_type: array
-emails:
-  required: true
-  default_value:
-  value_type: array
 github:
   required: true
   default_value:

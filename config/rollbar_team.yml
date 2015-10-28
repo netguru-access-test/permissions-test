@@ -1,4 +1,8 @@
 ---
+name:
+  required: true
+  default_value:
+  value_type: string
 members:
   required: true
   default_value:

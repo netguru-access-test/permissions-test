@@ -5,7 +5,7 @@ name:
   value_type: string
 emails:
   required: false
-  default_value:
+  default_value: []
   value_type: array
 github:
   required: true

@@ -1,4 +1,5 @@
 ---
 name: teamsi
 members: []
-projects: []
+projects:
+- project3

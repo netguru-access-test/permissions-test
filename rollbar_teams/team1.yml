@@ -1,4 +1,5 @@
 ---
 name: team1
 members: []
-projects: []
+projects:
+- project3
